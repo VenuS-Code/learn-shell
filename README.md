@@ -1,5 +1,5 @@
 # learn-shell
 
-## WIll Start Learning Shell- Scripting
+## WIll Start Learning Shell- Scr
 
-##Started
+## Shell Scripting topics
