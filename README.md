@@ -15,3 +15,9 @@
 5.Functions
 
 6.Inputs
+
+7.Exit Status
+
+8.Quotes
+
+9.SED Editor
