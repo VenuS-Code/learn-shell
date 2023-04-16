@@ -6,6 +6,12 @@
 
 1.How to Write Shell Scripting file
 
-2.variables.
+2.Variables.
 
-3.Changes
+3.Printing
+
+4.Loops
+
+5.Functions
+
+6.Inputs
