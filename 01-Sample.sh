@@ -9,4 +9,3 @@ uptime
 netstat -lntp
 
 yum list installed
-
