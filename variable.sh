@@ -8,6 +8,6 @@ echo name = ${name}
 
 #Print Date
 #date=03-05-2023
-date=(date +%f)
-echo Today date is ${date}
+DATE=$(date +%f)
+echo Today date is ${DATE}
 
