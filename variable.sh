@@ -1,6 +1,7 @@
 a=10
-name = devops
+name=devops
 
-a = ${a}
-name = ${name}
+#print a variable
 
+echo a = ${a}
+echo name = ${name}
