@@ -5,3 +5,7 @@ name=devops
 
 echo a = ${a}
 echo name = ${name}
+
+#Print Date
+date=03-05-2023
+echo Today date is ${date}
