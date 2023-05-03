@@ -13,5 +13,5 @@ echo Today date is ${DATE}
 
 #Print arithmetic
 
-ARTH=((2-3*7/4))
+ARTH=$((2-3*7/4))
 echo ARTH = ${ARTH}
