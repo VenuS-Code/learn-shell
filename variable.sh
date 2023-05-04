@@ -1,3 +1,8 @@
+
+pwd
+exit
+
+
 a=10
 name=devops
 
